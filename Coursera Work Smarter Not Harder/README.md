@@ -54,7 +54,6 @@
 > 
 > [Reference](https://www.fastcompany.com/3037021/why-you-should-ignore-some-time-saving-tips)
 
--
 > **"Taking jobs to build up your resume is the same as saving up sex for old age."**
 > 
 > **"You are the average of the five people you spend the most time with"**
@@ -68,7 +67,7 @@
 
 ![Time Log](./Photos/2_time_log.png)
 
-# Week 2: Time Is The Most Limited Resource
+# Week 2: Time Is The Most Limited Resource
 
 *"Spend your time in the way that's gonna bring you what you want from your life."*
 
@@ -127,7 +126,7 @@ You skip around from task to task and you're just not as effective as when you c
 > 
 > Publilius Syrus
 
-![](./Photos/5_multitasking_exercise.png)
+![Multitasking Exercise](./Photos/5_multitasking_exercise.png)
 
 And you're really not doing all of these things at the same time. You're probably going to make some kind of embarrassing mistake. What you do is you pay the price for multitasking in what we call switching cost.
 
@@ -139,4 +138,4 @@ Every time you go in and out of task A, you need time to reacquaint yourself wit
 
 **The best approach is to try and focus on one thing at a time. Then transition to the next task.**
 
-![](./Photos/6_summary.png)
+![Summary](./Photos/6_summary.png)
